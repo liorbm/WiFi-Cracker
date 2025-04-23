@@ -1,6 +1,7 @@
 # WiFi-Cracker
 
 A powerful and user-friendly tool for capturing WPA/WPA2 handshakes and cracking WiFi passwords. This tool automates the process of network scanning, handshake capture, and password cracking with a beautiful colored interface.
+![image](https://github.com/user-attachments/assets/331381dd-c3a5-42c6-b31e-371ff1333a62)
 
 ## Features
 
